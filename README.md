@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/images/videocalls.png" width="200">
+<img src="assets/images/videocalls.png" width="500">
 </p>
 
 ## About
